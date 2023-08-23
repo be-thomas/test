@@ -1,5 +1,0 @@
-{{#user}}
-Name: Thomas Sudeep Benardo
-Skills: HTML, CSS, React.js, Next.js, JavaScript, Python, Java, OCaml, Haskell, Lua, C, C++, Node.js, Express.js, Cordova, Ionic Framework, MySQL, MongoDB, PHP, Django, Flask, Dart, Pygame, Love2D
-Email: thomasbenardo96@gmail.com
-{{/user}}
